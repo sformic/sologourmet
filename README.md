@@ -21,5 +21,5 @@ for file in ciao
 # Explaining why gourmet cousine
 
 - Because cooking can be an art.
-- A necessity (nutrition of our body) becomes art
+- A necessity (nutrition of our body) becomes art.
 
