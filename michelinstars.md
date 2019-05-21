@@ -1,3 +1,4 @@
 # Michelin star system
 
 **Michelin star** system helps us to recognize restaurants/streetFoodPlaces which are worth visiting.  
+But this is just a help...there are so many differences between those restaurants which can be valuable or not depending on our personal taste/personality.
