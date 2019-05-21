@@ -20,6 +20,7 @@ for file in ciao
 
 # Explaining why gourmet cousine
 
-- Because cooking can be an art.
 - A necessity (nutrition of our body) becomes art.
+- You need to eat much less to get high amount of satisfaction.
+- It makes a dinner an artistic spiritual experience which also involves a lot your intellectual abilities.
 
