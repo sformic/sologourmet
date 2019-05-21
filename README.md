@@ -17,3 +17,7 @@ it tells that this lines are written in Python and thus highlights code Python-s
 for file in ciao
   print file
 ```
+
+# Explaining why gourmet cousine
+
+Because cooking can be an art.
